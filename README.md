@@ -23,7 +23,7 @@ Este projeto utiliza Python e a biblioteca PyAES para criptografar e descriptogr
 
 Execute o script de criptografia:
 ```
-  python criptografar.py
+  python encrypter.py
 ```
 Execute o script de descriptografia:
 ```
